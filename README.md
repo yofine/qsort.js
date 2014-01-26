@@ -3,7 +3,7 @@
 
 
 
-#qSort-node
+#qSort-node    [![Build Status](https://travis-ci.org/FineLiu/qsort-node.png?branch=master)](https://travis-ci.org/FineLiu/qsort-node)
 
 
 A quick sorting algorithm by nodejs
