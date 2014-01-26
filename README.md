@@ -1,8 +1,6 @@
-
 ![Quick, Sort!](http://learnyousomeerlang.com/static/img/quicksort.png)   
 
 
-----------
 
 
 #qSort.js
