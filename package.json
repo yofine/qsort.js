@@ -1,6 +1,6 @@
 {
-  "name": "qsort-node",
-  "version": "0.0.1",
+  "name": "qsort.js",
+  "version": "0.0.2",
   "description": "A Quick Sorting Algorithm by nodejs",
   "main": "index.js",
   "directories": {
@@ -28,10 +28,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FineLiu/qsort-node.git"
+    "url": "https://github.com/FineLiu/qsort.js.git"
   },
   "bugs": {
-    "url": "https://github.com/FineLiu/qsort-node/issues"
+    "url": "https://github.com/FineLiu/qsort.js/issues"
   },
-  "homepage": "https://github.com/FineLiu/qsort-node"
+  "homepage": "https://github.com/FineLiu/qsort.js"
 }
