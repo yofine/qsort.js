@@ -1,11 +1,9 @@
-
 ![Quick, Sort!](http://learnyousomeerlang.com/static/img/quicksort.png)   
 
 
-----------
 
 
-#qSort.js
+#qSort-node
 
 
 A quick sorting algorithm by nodejs
