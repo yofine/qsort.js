@@ -3,7 +3,7 @@
 
 
 
-#qSort.js
+#qSort-node
 
 
 A quick sorting algorithm by nodejs
