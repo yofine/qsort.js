@@ -1,0 +1,36 @@
+{
+  "name": "qsort-node",
+  "version": "0.0.1",
+  "description": "A Quick Sorting Algorithm by nodejs",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.17.0",
+    "blanket": "~1.1.6"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "config": {
+    "blanket": {
+      "pattern": "test/test.js"
+    }
+  },
+  "keywords": [
+    "quicksort"
+  ],
+  "author": "yofine",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FineLiu/qsort-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FineLiu/qsort-node/issues"
+  },
+  "homepage": "https://github.com/FineLiu/qsort-node"
+}
