@@ -10,7 +10,7 @@ A quick sorting algorithm by nodejs
 
 ##Installation
 
-    $ npm install qsort-node 
+    $ npm install qsort.js 
     
 ```js
 var qSortSync = require('qsort-node').qSortSync;
