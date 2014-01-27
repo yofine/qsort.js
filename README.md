@@ -13,8 +13,8 @@ A quick sorting algorithm by nodejs
     $ npm install qsort.js 
     
 ```js
-var qSortSync = require('qsort-node').qSortSync;
-var qSort = require('qsort-node').qSort;
+var qSortSync = require('qsort-js').qSortSync;
+var qSort = require('qsort-js').qSort;
 
 var NUMARR = [2, 1, 5, 100, 15, 3, 25, 1, 90, 85];
 var NUMSTR = '2 1 5 100 15 3 25 1 90 85'
