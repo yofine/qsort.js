@@ -1,3 +1,4 @@
-image: ruby2.0.0
+image: node:0.12
 script:
   - echo "Hello World"
+  - npm test
