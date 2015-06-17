@@ -1,4 +1,4 @@
-image: go1.3
+image: node
 docker:
   net: host
 script:
