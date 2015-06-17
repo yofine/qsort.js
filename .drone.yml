@@ -1,6 +1,3 @@
-image: node
-docker:
-  net: host
+image: ruby2.0.0
 script:
   - echo "Hello World"
-  - npm test
