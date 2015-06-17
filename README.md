@@ -1,17 +1,16 @@
-![Quick, Sort!](http://learnyousomeerlang.com/static/img/quicksort.png)   
-
-
-
+![Quick, Sort!](http://learnyousomeerlang.com/static/img/quicksort.png)
 
 #qSort.js   [![Build Status](https://travis-ci.org/FineLiu/qsort-node.png?branch=master)](https://travis-ci.org/FineLiu/qsort-node)
+
+[![Build Status](http://106.185.35.82:8000/api/badge/github.com/yofine/qsort.js/status.svg?branch=master)](http://106.185.35.82:8000/github.com/yofine/qsort.js)
 
 
 A quick sorting algorithm by nodejs
 
 ##Installation
 
-    $ npm install qsort.js 
-    
+    $ npm install qsort.js
+
 ```js
 var qSortSync = require('qsort.js').qSortSync;
 var qSort = require('qsort.js').qSort;
@@ -48,15 +47,15 @@ console.log(result2);
 To run the test suite, first invoke the following command within the repo, installing the development dependencies:
 
     $ npm install
-    
+
 Then run the tests:
 
     $ make test
-    
+
 Or run the test-cov:
 
     $ make test-cov
-    
+
 ##License
 
 Copyright (c) 2014 FineLiu <yofineliu@gmail.com>
