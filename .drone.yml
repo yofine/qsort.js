@@ -1,7 +1,6 @@
-image: library/node:0.10
+image: library/node
 docker:
   net: host
 script:
-  - env
   - echo "Hello World"
   - npm test
