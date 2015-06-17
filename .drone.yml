@@ -1,3 +1,3 @@
-image: nodejs
+image: node:0.12
 name: qsort.js
   - npm test
