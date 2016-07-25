@@ -2,8 +2,7 @@
 
 #qSort.js   [![Build Status](https://travis-ci.org/FineLiu/qsort-node.png?branch=master)](https://travis-ci.org/FineLiu/qsort-node)
 
-[![Build Status](http://106.185.35.82:8000/api/badge/github.com/yofine/qsort.js/status.svg?branch=master)](http://106.185.35.82:8000/github.com/yofine/qsort.js)
-
+[![Build Status](http://droneio.yofineliu.com/api/badges/yofine/qsort.js/status.svg)](http://droneio.yofineliu.com/yofine/qsort.js)
 
 A quick sorting algorithm by nodejs
 
