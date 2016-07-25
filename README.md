@@ -1,7 +1,5 @@
 ![Quick, Sort!](http://learnyousomeerlang.com/static/img/quicksort.png)
 
-#qSort.js   [![Build Status](https://travis-ci.org/FineLiu/qsort-node.png?branch=master)](https://travis-ci.org/FineLiu/qsort-node)
-
 [![Build Status](http://droneio.yofineliu.com/api/badges/yofine/qsort.js/status.svg)](http://droneio.yofineliu.com/yofine/qsort.js)
 
 A quick sorting algorithm by nodejs
