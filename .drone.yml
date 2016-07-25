@@ -1,5 +1,6 @@
-image: node:0.12
-script:
-  - echo "Hello World"
-  - npm install
-  - npm test
+build:
+  image: node:0.12
+  commands:
+    - echo "Hello World"
+    - npm install
+    - npm test
